@@ -1,6 +1,6 @@
 # Apify - Google Jobs Scraper
 
-https://apify.com/orgupdate/google-jobs-scraper 
+https://apify.com/orgupdate/google-jobs-scraper
 
 ## Overview
 

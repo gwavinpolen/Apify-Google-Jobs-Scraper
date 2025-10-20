@@ -11,7 +11,7 @@ Actor.main(async () => {
     // 2. Call your external API
     const res = await axios.post("https://api.orgupdate.com/search-jobs-v1", {
       ...input,
-      source: "google",
+      source: "google jobs",
     });
 
     const jobs = res.data;

